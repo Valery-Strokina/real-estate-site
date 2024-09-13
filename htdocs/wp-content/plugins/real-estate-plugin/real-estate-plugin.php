@@ -3,7 +3,7 @@
 Plugin Name: Real Estate Plugin
 Description: A plugin to manage and filter real estate properties with proper filtering for Foam Block and a clear layout.
 Version: 1.4
-Author: Your Name
+Author: Valeriia Strokina
 */
 
 // Register Custom Post Type for Real Estate
